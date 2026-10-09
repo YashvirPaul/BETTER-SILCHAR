@@ -1,0 +1,6 @@
+{
+  "name": "Better Silchar - Cleanliness Drive at Premtala",
+  "description": "Join the youth-led cleanliness drive at Premtala, Silchar. Cleaner, Greener, Stronger Silchar. Connect on WhatsApp to confirm your participation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
